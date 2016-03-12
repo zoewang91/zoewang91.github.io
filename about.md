@@ -52,6 +52,6 @@ permalink: /about/
 
 ### Contact me
 
-[Gmail](mailto:zoe0901@gmail.com)
-[Github](https://github.com/zoewang91)
-[Weibo](http://weibo.com/zoeee)
+* [Gmail](mailto:zoe0901@gmail.com)
+* [Github](https://github.com/zoewang91)
+* [Weibo](http://weibo.com/zoeee)
